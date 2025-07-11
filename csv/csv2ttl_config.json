@@ -44,6 +44,23 @@
             "value": ""
           }
         ]
+      },
+      {
+        "id": "me",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Medien (Stimulus)"
+          }
+        ],
+        "filenameSource": "me_Medien.csv",
+        "filenameTarget": "me_Medien.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
       }
     ]
   }
