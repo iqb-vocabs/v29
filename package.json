@@ -1,0 +1,23 @@
+{
+  "name": "iqb-vocabs_v29",
+  "version": "0.1.0",
+  "description": "Nawi",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v29.git"
+  },
+  "author": "IQB",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v29/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v29#readme",
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.8.3"
+  }
+}

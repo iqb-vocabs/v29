@@ -1,0 +1,49 @@
+{
+    "id": "Nawi",
+    "title": [
+      {
+        "lang": "de",
+        "value": "NaWi"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v29",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "ep",
+        "title": [
+          {
+            "lang": "de",
+            "value": "ESNaS kognitiver Prozess"
+          }
+        ],
+        "filenameSource": "ep_ESNaS_kognitiver_Prozess.csv",
+        "filenameTarget": "ep_ESNaS_kognitiver_Prozess.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ek",
+        "title": [
+          {
+            "lang": "de",
+            "value": "ESNaS Komplexität"
+          }
+        ],
+        "filenameSource": "ek_ESNaS_Komplexitaet.csv",
+        "filenameTarget": "ek_ESNaS_Komplexitaet.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
